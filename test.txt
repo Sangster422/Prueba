@@ -7,8 +7,6 @@ We will try to make it work now
 
 Branch one
 
-
-Branch two?
-
+Now, can i pull?
 
 Can i push it to the repositry from VSCode?
